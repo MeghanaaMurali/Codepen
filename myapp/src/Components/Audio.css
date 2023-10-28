@@ -1,0 +1,45 @@
+
+.header{
+    display: flex;
+}
+.header > h2 {
+   background-color: red;
+   color: white;
+   width:29%;
+   padding: 10px;
+   height: 50px;
+}
+
+.header > .dj{
+    background-color: black;
+    color: red;
+    width:42%;
+    padding:10px;
+}
+
+.dj > .hor{
+    border-top: 5px solid red;
+    opacity:1;
+}
+
+.dj{
+    border-left: 7px solid red;
+    border-right: 7px solid red;
+}
+
+.anchor{
+    color:red;
+    outline: none;
+    text-decoration: none;
+}
+
+.para{
+    color: white;
+}
+
+
+
+.bg{
+    background-color: black;
+}
+
